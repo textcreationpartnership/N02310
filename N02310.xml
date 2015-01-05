@@ -118,8 +118,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:002746_0000_0FE5F426DC1EE9E0"/>
-            <pb facs="tcp:002746_0001_0FE621CBA5588C00"/>
+            <pb facs="unknown:002746_0000_0FE5F426DC1EE9E0"/>
+            <pb facs="unknown:002746_0001_0FE621CBA5588C00"/>
             <p>AN EXPERIMENTAL <hi>COURSE</hi> OF <hi>Mechanical Philosophy.</hi>
             </p>
             <p>WHEREBY such a competent Skill in <hi>Natural Knowledge</hi> may be attained <gap reason="illegible: indecipherable" extent="1 word">
@@ -132,7 +132,7 @@
                <hi>BOSTON:</hi> Printed in the Year, 1726.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:002746_0002_0FE6216CA9488310"/>
+            <pb facs="unknown:002746_0002_0FE6216CA9488310"/>
             <head>Advertisement.</head>
             <p>SINCE <hi>Course of Experiments</hi> have not as yet been introduc'd into NEW-ENG<g ref="char:EOLhyphen"/>LAND, howsoever ambitious, &amp; successful this <hi>Country</hi> has hitherto been in following the Politer Nations of <hi>Europe</hi> in other Things, I have thought it might not be amiss to take Notice of the following <hi>General Description.</hi>
             </p>
@@ -148,13 +148,13 @@
       </front>
       <body>
          <div type="course_description">
-            <pb facs="tcp:002746_0003_0FE621D00248BF50"/>
+            <pb facs="unknown:002746_0003_0FE621D00248BF50"/>
             <head>AN EXPERIMENTAL COURSE OF Mechanical Philosophy.</head>
             <div n="1" type="lecture">
                <head>LECTURE I.</head>
                <p>CONTAINING a general <hi>Intro<g ref="char:EOLhyphen"/>duction</hi> concerning the Methods used by <hi>Philosophers;</hi> &amp; the Use, and Importance of Sir ISAAC NEWTON's celebrated Rules in judging of <hi>Natural Experi<g ref="char:EOLhyphen"/>ments.</hi> Also, the <hi>Definitions</hi> of such <hi>Terms</hi> as are of more com<g ref="char:EOLhyphen"/>mon Use; and the Explanation of the Essential Properties of Matter, which are con<g ref="char:EOLhyphen"/>tained by several curious Experiments.</p>
                <p>
-                  <pb n="2" facs="tcp:002746_0004_0FE621D008D82CE8"/>
+                  <pb n="2" facs="unknown:002746_0004_0FE621D008D82CE8"/>
 PARTICULARLY, in this <hi>Lecture</hi> is shewn, by proper <hi>Machines,</hi> that there are do facto interspers'd <hi>Vacuities</hi> in Nature; and that the <hi>Solid</hi> Parts of the World heat but a very little proportion to <hi>Void;</hi> that <hi>Quantity</hi> is <hi>Infinitely Divisible,</hi> and in <hi>Natural Bodies</hi> the parts are so prodigiously minute as to ex<g ref="char:EOLhyphen"/>ceed all Imagination; several Instances of which are given, both in <hi>Art</hi> and <hi>Nature;</hi> and an <hi>Experiment</hi> made whereby a <hi>Cubic</hi> Inch of Water is actually divided into several Millions of Parts, visible to the naked Eye: that all Matter is the same, and capable of any <hi>Form,</hi> or Appearance, as is shewn in several Instances of the <hi>Changes</hi> of the same particles in the Constitution of <hi>different</hi> Bodies.</p>
             </div>
             <div n="2" type="lecture">
@@ -168,7 +168,7 @@ PARTICULARLY, in this <hi>Lecture</hi> is shewn, by proper <hi>Machines,</hi> th
             <div n="3" type="lecture">
                <head>LECTURE III.</head>
                <p>OF such Special <hi>Laws of Nature</hi> as obtain in some particular Cases. Being a Collection of various <hi>Experiments</hi> concerning <hi>Electrical Attraction,</hi> and <hi>Repulsion;</hi> wherein the chief Circumstances, and Properties of that remarkable <hi>Phoenomenon</hi> are shewn; <hi>Experiments</hi> relating to the <hi>Electrical Phosphorus,</hi>
-                  <pb n="3" facs="tcp:002746_0005_0FE6217997E93358"/>
+                  <pb n="3" facs="unknown:002746_0005_0FE6217997E93358"/>
 the <hi>Vitreous Phosphorus,</hi> the <hi>Mercurial Phosphorus,</hi> the <hi>Solid,</hi> and <hi>Liquid Phosphorus;</hi> with the Appli<g ref="char:EOLhyphen"/>cation of <hi>Electrical Light</hi> to the Discovery of the true Cause of several <hi>Uncommon Lights,</hi> and especially such as are produc'd upon the <hi>Attrition</hi> of the Parts.</p>
                <p>ALSO, <hi>Experiments</hi> relating to the <hi>Loadstone,</hi> whereby the Law of <hi>Magnetical Attraction</hi> is discovered, and such properties of that wonderful <hi>Stone</hi> shewn, as have hitherto been applied to the Uses of <hi>Civil Life.</hi>
                </p>
@@ -181,7 +181,7 @@ the <hi>Vitreous Phosphorus,</hi> the <hi>Mercurial Phosphorus,</hi> the <hi>Sol
             <div n="5" type="lecture">
                <head>LECTURE V.</head>
                <p>CONTAINING some General Things concerning the <hi>Mechanical Powers. Experiments</hi> upon the <hi>Ballance,</hi> whereby the several Properties thereof are demonstrated; of the <hi>Statera Romana;</hi> of the <hi>De<g ref="char:EOLhyphen"/>ceitful
-<pb n="4" facs="tcp:002746_0006_0FE621D6F298D5C8"/>
+<pb n="4" facs="unknown:002746_0006_0FE621D6F298D5C8"/>
 Ballance;</hi> of the difference between <hi>Fixt,</hi> and <hi>Moveable Weights</hi> on the <hi>Ballance;</hi> with a curious Case relating to the Increase of a <hi>Weight</hi> on the <hi>Bal<g ref="char:EOLhyphen"/>lance</hi> without any new Addition, or Alteration of the <hi>Line of Direction; Experiments</hi> on the <hi>Lever;</hi> of the Three sorts of common <hi>Levers;</hi> of the <hi>Lever</hi> that is us'd in carrying of Burthens; with <hi>Experiments</hi> to shew how Men, or Horses of unequal Strength may be made to carry, or draw Burthen in Proportion to their Strength; of <hi>Bent-Lever; Experi<g ref="char:EOLhyphen"/>ments</hi> on <hi>Compound Levers;</hi> with an Explanation of Such <hi>Instruments,</hi> and <hi>Machines</hi> in common Life, as are of the <hi>Lever-Kind; Experiments</hi> on <hi>Pulley;</hi> the Action of <hi>Single Pulleys</hi> considered in several different ways; of various <hi>Systems,</hi> or Combinations of <hi>Pulleys.</hi>
                </p>
             </div>
@@ -194,7 +194,7 @@ Ballance;</hi> of the difference between <hi>Fixt,</hi> and <hi>Moveable Weights
                <head>LECTURE VII.</head>
                <p>CONCERNING <hi>Relative Motion,</hi> and the <hi>Phaeno<g ref="char:EOLhyphen"/>mena</hi> that depend thereon; with <hi>Rules</hi> and <hi>Ex<g ref="char:EOLhyphen"/>periments</hi> to distinguish <hi>Relative,</hi> and <hi>Absolute</hi> Mo<g ref="char:EOLhyphen"/>tion; of the <hi>Motion of the Earth,</hi> with Satisfactory Ans<g ref="char:EOLhyphen"/>wers to the chiefest Objections against it. Of Sir ISAAC NEWTON's First <hi>Law</hi> of Motion, <abbr>Viz.</abbr> 
                   <hi>'That all Bodies continue in their State of Motion, or Rest
-<pb n="5" facs="tcp:002746_0007_0FE621D6F98CB250"/>
+<pb n="5" facs="unknown:002746_0007_0FE621D6F98CB250"/>
 uniformly in a Right Line, except so much as they are forc'd to change that State by Forces impres'd;</hi> with various <hi>Examples,</hi> and <hi>Experiments</hi> to illustrate and confirm the same; as well as to shew the Use, and Importance thereof in <hi>Philosophical</hi> Affairs.</p>
             </div>
             <div n="8" type="lecture">
@@ -205,7 +205,7 @@ uniformly in a Right Line, except so much as they are forc'd to change that Stat
             <div n="9" type="lecture">
                <head>LECTURE IX.</head>
                <p>CONCERNING <hi>Oblique Descents. Gallileus's Method</hi> to determine the <hi>Space</hi> that Bodies des<g ref="char:EOLhyphen"/>cribe in a given part of Time by <hi>Falling freely;</hi> of the Comparison of <hi>Inclined Planes;</hi> of <hi>Oscillatory Motion,</hi> with various <hi>Experiments</hi> on <hi>Pendulums;</hi> of <hi>Compound Pendulums;</hi> of the Description, and chief Properties of the <hi>Cycloid,</hi> and <hi>M. Hugens</hi> Me<g ref="char:EOLhyphen"/>thod of <hi>Cycloidal Cheeks</hi> for regulating the Vibrations of <hi>Pendulums;</hi> of the use of <hi>Pendulums;</hi> An <hi>Ex<g ref="char:EOLhyphen"/>periment</hi> to shew the Analogy between the <hi>Swings</hi> of a <hi>Peudulum,</hi> and the <hi>Waves</hi> of the Sea; of the
-<pb n="6" facs="tcp:002746_0008_0FE6216CAFF995F0"/>
+<pb n="6" facs="unknown:002746_0008_0FE6216CAFF995F0"/>
 Length of <hi>Pendulums</hi> in different <hi>Latitudes,</hi> and the Alteration thereof by Heat, and Cold; with some cu<g ref="char:EOLhyphen"/>rious <hi>Experiments</hi> relating to the Expansion of <hi>Metals</hi> by Heat.</p>
             </div>
             <div n="10" type="lecture">
@@ -223,7 +223,7 @@ Length of <hi>Pendulums</hi> in different <hi>Latitudes,</hi> and the Alteration
                <p>CONCERNING Sir ISAAC NEWTON's Third <hi>Law of Motion,</hi> 
                   <abbr>Viz.</abbr> 
                   <hi>That the Actions, and Reactions of Bodies upon one another are always e<g ref="char:EOLhyphen"/>qual, and in contrary Directions.</hi> Several <hi>Instances,</hi> and <hi>Experiments</hi> to illustrate, and confirm that <hi>Law;</hi> of
-<pb n="7" facs="tcp:002746_0009_0FE621DB22807178"/>
+<pb n="7" facs="unknown:002746_0009_0FE621DB22807178"/>
 the <hi>Congress</hi> of <hi>Common Bodies,</hi> with <hi>Experiments</hi> on the several Cases thereof; of the <hi>Congress</hi> of <hi>Elastic Bodies,</hi> with a variety of <hi>Experiments</hi> relating thereto; some extraordinary Cases in the <hi>Collision</hi> of <hi>Elastic Bodies;</hi> and an <hi>Experiment</hi> proving that a <hi>Small Elastic Ball</hi> will communicate more Motion to a <hi>Greater</hi> in impinging upon it, than it really has it self: Of <hi>Oblique Congress,</hi> with <hi>Machines</hi> to shew the several Cases thereof <hi>Experimentally.</hi>
                </p>
             </div>
@@ -235,7 +235,7 @@ the <hi>Congress</hi> of <hi>Common Bodies,</hi> with <hi>Experiments</hi> on th
             <div n="14" type="lecture">
                <head>LECTURE XIV.</head>
                <p>OF the <hi>System</hi> of <hi>the World:</hi> with <hi>Spheres,</hi> and <hi>Tables</hi> to explain the Motions of the Planets. Of the <hi>Primary Planets,</hi> their <hi>Order,</hi> the <hi>Figure,</hi> and <hi>Inclination,</hi> of their <hi>Orbs<g ref="char:punc">▪</g> Distances, Eccentricities, Periods, Magnitudes, Densities,</hi> Degrees of <hi>Heat,</hi> and <hi>Light,</hi> &amp;c. with an Explanation of all such <hi>Astrono<g ref="char:EOLhyphen"/>mical Terms</hi> as relate thereunto; of the <hi>Astronomy</hi> of the <hi>Moon,</hi> and the other <hi>Satellites;</hi> of the <hi>Ring</hi> of <hi>Saturn;</hi> of <hi>Jupiter's Belts;</hi> and some general Ob<g ref="char:EOLhyphen"/>servations concerning the <hi>Surfaces</hi> of the <hi>Planets;</hi> of
-<pb n="8" facs="tcp:002746_0010_0FE621DB56E2CB90"/>
+<pb n="8" facs="unknown:002746_0010_0FE621DB56E2CB90"/>
 the <hi>Astronomy</hi> of <hi>Comets,</hi> with an Account of such as are expected by <hi>Astronomers</hi> in the present <hi>Century,</hi> with the Grounds, and Reason of such Expectations; of the <hi>Sun;</hi> of the <hi>Fixt Stars.</hi>
                </p>
                <p>OF the <hi>Revolutions</hi> of the <hi>Planets</hi> upon their <hi>Axes,</hi> with an Account of such <hi>Phaenomena</hi> as are de<g ref="char:EOLhyphen"/>rived therefrom; where will be particularly shewn up<g ref="char:EOLhyphen"/>on <hi>Globes</hi> the reason of the different <hi>Seasons</hi> of the <hi>Year,</hi> the different Length of <hi>Day,</hi> and <hi>Night,</hi> and the Ill-conveniencies attending any other Situation of the <hi>Axis</hi> of the <hi>Earth's Rotation;</hi> with a particular Explanation of various <hi>Geographical Terms,</hi> and <hi>Problems.</hi>
@@ -249,7 +249,7 @@ the <hi>Astronomy</hi> of <hi>Comets,</hi> with an Account of such as are expect
             <div n="16" type="lecture">
                <head>LECTURE XVI.</head>
                <p>CONTAINING the <hi>Physical Causes</hi> of the <hi>Plane<g ref="char:EOLhyphen"/>tary Motions</hi> &amp;c. in the <hi>Solar System.</hi> An Ac<g ref="char:EOLhyphen"/>count of some celebrated <hi>Observations</hi> made by
-<pb n="9" facs="tcp:002746_0011_0FE621773B963DF0"/>
+<pb n="9" facs="unknown:002746_0011_0FE621773B963DF0"/>
 KEPLER, with some General Remarks upon <hi>Ellipti<g ref="char:EOLhyphen"/>cal Motion,</hi> of <hi>Universal Gravity,</hi> with a particular Explanation of the <hi>Absolute, Accelerating,</hi> and <hi>Mov<g ref="char:EOLhyphen"/>ing Forces</hi> in <hi>Central Bodies;</hi> of the Method which Sir ISAAC NEWTON used in discovering the true Cause of the <hi>Centrietal Force</hi> of the <hi>Moon,</hi> with an Account of the Manner of Calculating the Sun's <hi>Attractive Force</hi> upon the several <hi>Planets</hi> in the <hi>System,</hi> and of the <hi>Primary Planets</hi> upon their <hi>Sa<g ref="char:EOLhyphen"/>tellites:</hi> The <hi>Physical</hi> Explanation of several <hi>Irregu<g ref="char:EOLhyphen"/>larities</hi> in the <hi>Planetary Motions,</hi> especially in the <hi>Moon;</hi> the <hi>Physical</hi> Explanation of the <hi>Motion</hi> of the <hi>Earth's Axis</hi> &amp;c. with the Method of determining the <hi>Densities,</hi> and the <hi>Figures</hi> of the <hi>Planets;</hi> concerning the <hi>True Cause</hi> of the <hi>Tides,</hi> with several <hi>Machines,</hi> and <hi>Schemes</hi> to explain the most noted and remarkable <hi>Phanomena</hi> thereof; together with an <hi>Historical</hi> Ac<g ref="char:EOLhyphen"/>count of several <hi>Particulars,</hi> relating thereunto, that are very <hi>Remarkable,</hi> with the <hi>Philosophical Solution</hi> thereof.</p>
                <p>A General Conclusion, concerning <hi>Judicial Astro<g ref="char:EOLhyphen"/>logy;</hi> whereas is shown, how contrary the <hi>Principles</hi> of that pretended <hi>Science</hi> are, to the Establish'd <hi>Laws of Nature,</hi> and how vain and absurd all such <hi>Conclusions,</hi> and <hi>Calculations</hi> are, that are made from them.</p>
                <p>
@@ -260,7 +260,7 @@ KEPLER, with some General Remarks upon <hi>Ellipti<g ref="char:EOLhyphen"/>cal M
       </body>
       <back>
          <div type="subscription_advert">
-            <pb facs="tcp:002746_0012_0FE6217746A998D0"/>
+            <pb facs="unknown:002746_0012_0FE6217746A998D0"/>
             <p>EVERY SUBSCRIBER is to pay <hi>Three Pounds; Twenty Shillings</hi> at the Time of Subscription, and the <hi>Remainder</hi> on the Third Day of the <hi>Course.</hi> Upon suitable Encouragement there will be several <hi>Courses,</hi> and such as are desirous, may go over the same again for <hi>Forty Shillings;</hi> and afterwards as often as they please <hi>gratis.</hi>
             </p>
             <p>ALSO, if this <hi>New Method of Teaching,</hi> (which is justly esteemed, beyond all <hi>Comparison</hi> the most expeditious, and satisfactory of all others whatsoever) meets with <hi>Success</hi> as it has done amongst the Politer Nati<g ref="char:EOLhyphen"/>ons in <hi>Europe,</hi> there will be performed <hi>Ex<g ref="char:EOLhyphen"/>perimental Courses</hi> in <hi>Opticks, Astronomy, Hydrostaticks,</hi> and <hi>Pneumaticks;</hi> to which, this of <hi>Mechanical Philosophy</hi> is a necessary <hi>Introduction,</hi> being the Foundation of all <hi>Physical Knowledge.</hi>
